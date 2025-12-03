@@ -12,3 +12,4 @@ It achieves this by splitting numbers into halves and reducing the number of req
 ![Alt text](assets/Karatsuba.png)
 
 ### Output:
+![Alt text](assets/Output.png)
