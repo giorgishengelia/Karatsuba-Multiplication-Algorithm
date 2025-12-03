@@ -7,3 +7,8 @@ Instead of the usual O(n²) time, Karatsuba runs in:
 
 
 It achieves this by splitting numbers into halves and reducing the number of required multiplications from 3 → 2.
+
+### Python Algorithm:
+![Alt text](assets/Karatsuba.png)
+
+### Output:
